@@ -9,3 +9,5 @@
 ### Windows
 
 - 获取当前文件夹占用空间 ( Get-ItemSize.ps1 )
+- 验证身份证号是否符合规则 ( Validate-IDCard.ps1 )
+	- 使用方式 `.\Validate-IDCard.ps1 -IDCard "xxxxxxx"`
